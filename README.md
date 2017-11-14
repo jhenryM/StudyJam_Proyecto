@@ -1,6 +1,6 @@
-# Persistencia de datos
+# Proyecto - StudyJam
 
-En este repositorio encontraran un ejemplo básico de como implementar 2 tipos de persistencia de datos tales como: SharedPreferences y guardar en la Memoria Interna
+En este repositorio encontraran el proyecto final realizado para acabar el curso
 Todo dentro del contenido del **Study Jam Android Development for Beginners** por el [GDG Android Bolivia.](http://www.gdg.androidbolivia.com/)
 
 
@@ -14,7 +14,7 @@ Todo dentro del contenido del **Study Jam Android Development for Beginners** po
 
 Para probar este ejemplo clona este repositorio de la siguiente forma:
 >
->     $ git clone https://github.com/remmcal/Persistencia.git
+>     $ git clone https://github.com/jhenryM/StudyJam_Proyecto.git
 
 Dentro de Android Studio:
 
@@ -31,4 +31,4 @@ Dentro de Android Studio:
     </center>
 </div>
 <br><br>
-<a href="https://github.com/remmcal" target="_blank">@remmcal
+
